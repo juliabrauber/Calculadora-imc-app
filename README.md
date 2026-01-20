@@ -33,6 +33,3 @@ Este projeto foi desenvolvido no início dos meus estudos em React Native. Ele t
 - Este projeto é simples e serve para fins de aprendizado.
 - Sinta-se à vontade para modificar e experimentar!
 
-## Sobre a pasta `%ProgramData%`
-
-Essa pasta não faz parte do projeto e não é necessária para o funcionamento do app. Ela pode ser removida do repositório.
